@@ -6,6 +6,7 @@
 .project
 .metadata
 bin/
+paypal/
 tmp/
 *.tmp
 *.bak
